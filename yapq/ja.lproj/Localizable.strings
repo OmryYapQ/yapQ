@@ -1,0 +1,115 @@
+/*
+ Localizable.string.strings
+ yapq
+ 
+ Created by yapQ Ltd on 1/11/14.
+ Copyright (c) 2014 yapQ Ltd. All rights reserved.
+ */
+/*
+ English - Base Language
+ */
+"km" = "km";
+
+"about" = "About";
+
+"term_conditions" = "Term & Conditions";
+
+"Error" = "Error";
+
+"info"="Info";
+
+"location_service_disabled_message"="Your loaction service is disabled. Please go to Settings -> Privacy -> Location Services and turn on location service for yapQ.";
+
+"Ok" = "Ok";
+
+"no"="No";
+
+"yes"="Yes";
+
+"loading" = "Loading ... ";
+
+"no_place_found_message" = "No places to display";
+
+"warning" = "Warning";
+
+"cancel" = "Cancel";
+
+"caution_screen_alert_message"="We strongly suggest not to use yapQ while driving";
+
+"not_driver"="Not the driver";
+
+"report_title"="Thank you for helping us get better";
+
+"report_message" = "We will review your report and fix the problem in no time.";
+
+"waiting_gps_signal"="Waiting for GPS signal";
+
+"Data Roaming"="Data Roaming";
+
+"Enable 3G network connection when WiFi is not available."="Enable 3G network connection when WiFi is not available.";
+
+"Free Memory"="Free Memory";
+
+"Delete City you won’t need.\nYou can always redownload it later."="Delete City you won’t need.\nYou can always redownload it later.";
+
+"Units"="Units";
+
+"Kilometers"="Kilometers";
+
+"Miles"="Miles";
+
+"Speech rate"="Speech Rate";
+
+"no_installed_packages"="No installed packages";
+
+"no_packages_found"="No packages found";
+
+"for_offline_use"="ダウンロード";
+
+"free"="Free";
+
+"my_downloads"="MY DOWNLOADS";
+
+"connect_to_wifi_or_enable_data_roaming"="Please connect to Wi-Fi or go to the settings area and enable Data Roaming.";
+
+"delete"="Delete";
+
+"delete_package_message"="Are you sure you want to delete this package?";
+
+"connect_device_to_facebook"="Go to settings > facebook and connect your device to facebook";
+
+"simple_error_message_on_login"="Ops.. Something went wrong, please try to connect again.";
+
+"simple_error_message_on_download"="Ops.. It looks like something broke down on our side. Please try again a bit later.";
+
+"purchase_unsuccessful"="Purchase Unsuccessful";
+
+"try_repurchase"="Ops.. The payment was not completed, please try again.";
+
+"no_space_on_device"="You don't have enough space for downloading this package.";
+
+"change_language_menu"="Change Languages";
+
+"account_menu"="Account";
+
+"offline_menu"="Search Offline Guide";
+
+"settings_menu"="Settings";
+
+"send_to_friend"="Send to a friend";
+
+"help_menu"="Support";
+
+"account_description"="Connect to yapQ so you could always save & sync your offline guides in any of your devices.";
+
+"offline_guides"="OFFLINE GUIDES";
+
+"gps_use_message"="Application will use gps for determine your location";
+
+"offline"="offline";
+
+"store_cell_text"="Download and enjoy the great city of %@ offline";
+
+"places"="%@ places";
+
+"under_purchases_table" = "This list contains your purchases. When installed it enables you to use yapQ without internet connection.\n";

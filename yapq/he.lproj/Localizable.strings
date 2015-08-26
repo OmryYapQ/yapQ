@@ -1,0 +1,115 @@
+/*
+ Localizable.string.strings
+ yapq
+ 
+ Created by yapQ Ltd on 1/11/14.
+ Copyright (c) 2014 yapQ Ltd. All rights reserved.
+ */
+/*
+ Hebrew
+ */
+"km" = "ק''מ";
+
+"about" = "אודות";
+
+"term_conditions" = "תנאי שימוש";
+
+"Error" = "שגיאה";
+
+"info"="מידע";
+
+"location_service_disabled_message"="שירותי המיקום במכשירך מכובה. לצורך שימוש באפליקצייה יש לגשת להגדרות ->פרטיות -> שירותי מיקום ולהפעיל שירותי מיקום לאפליקצייה יאפקיו";
+
+"Ok" = "אישור";
+
+"no"="לא";
+
+"yes"="כן";
+
+"loading" = "טוען ... ";
+
+"no_place_found_message" = "אין מקומות להצגה :(";
+
+"warning" = "אזהרה";
+
+"cancel" = "ביטול";
+
+"caution_screen_alert_message"="אין להשתמש באפלקיצייה בזמן נהיגה";
+
+"not_driver"="איני הנהג";
+
+"report_title"="תודה";
+
+"report_message" = "קבלנו את הדיווח ונטפל בו בהקדם.";
+
+"waiting_gps_signal"="ממתין לאות GPS";
+
+"Data Roaming"="נדידת נתונים";
+
+"Enable 3G network connection when WiFi is not available."="הפעל רשת סלולרית כאשר רשת WIFI אינה זמינה";
+
+"Free Memory"="נקה זכרון";
+
+"Delete City you won’t need.\nYou can always redownload it later."="מחק חבילות שאינך צריך באופן אוטומטי. ניתן להוריד אותן אחר בחינם";
+
+"Units"="יחידות";
+
+"Kilometers"="קילומטר";
+
+"Miles"="מיל";
+
+"Speech רate"="מהירות דיבור";
+
+"no_installed_packages"="אין חבילות מותקנות";
+
+"no_packages_found"="אין חבילות תוכן זמינות";
+
+"for_offline_use"="הורדה";
+
+"free"="חינם";
+
+"my_downloads"="ההורדות שלי";
+
+"connect_to_wifi_or_enable_data_roaming"="אנא התחבר לאינטרנט.";
+
+"delete"="מחק";
+
+"delete_package_message"="האם ברצונך למחוק חבילה זו?";
+
+"connect_device_to_facebook"="יש לחבר את המכשיר לפייסבוק לפני השיתוף";
+
+"simple_error_message_on_login"="אופס..משהו השתבש.אנא נסה שוב";
+
+"simple_error_message_on_download"="אופס..משהו לא עבד כשורה , אנא נסו מאוחר יותר.";
+
+"purchase_unsuccessful"="הרכישה נכשלה";
+
+"try_repurchase"="אופס..התשלום לא עבר , אנא נסו שנית.";
+
+"no_space_on_device"="אין במכשיר מספיק זכרון פנוי להורדת החבילה.";
+
+"change_language_menu"="שינוי השפה";
+
+"account_menu"="רכישות";
+
+"offline_menu"="חפש מדריכים";
+
+"settings_menu"="הגדרות";
+
+"send_to_friend"="שלח לחברים";
+
+"help_menu"="תמיכה";
+
+"account_description"="הרשם לyapQ ואנחנו נדאג לשמור על החבילות שלך בכל זמן.";
+
+"offline_guides"="מדריכים";
+
+"gps_use_message"="האפלקיצייה תשתמש בGPS  לקביעת מיקומך";
+
+"offline"="ללא אינטרנט";
+
+"store_cell_text"="הורידו ותהנו מ%@ ללא אינטרנט";
+
+"places"="%@ מקומות";
+
+"under_purchases_table" = "רשימה זו מציגה את המדריכים שרכשת. התקנת המדריך מאפשרת שימוש בו ביעד ללא אינטרנט.\n";

@@ -1,0 +1,115 @@
+/*
+ Localizable.string.strings
+ yapq
+ 
+ Created by yapQ Ltd on 1/11/14.
+ Copyright (c) 2014 yapQ Ltd. All rights reserved.
+ */
+/*
+ Russian
+ */
+"km" = "km";
+
+"about" = "???????";
+
+"term_conditions" = "Лицензионное соглашение";
+
+"Error" = "Ошибка";
+
+"info"="информация";
+
+"location_service_disabled_message"="Ваша служба локации отключена. Пожалуйста, зайдите в Настройки -> Конфиденциальность -> службы геолокации и включите услуги определения местоположения для yapQ.";
+
+"Ok" = "Ok";
+
+"no"="Нет";
+
+"yes"="Да";
+
+"loading" = "Загрузка ... ";
+
+"no_place_found_message" = "Нет мест для показа";
+
+"warning" = "Предупреждение";
+
+"cancel" = "Отменить";
+
+"caution_screen_alert_message"="Мы настоятельно рекомендуем не использовать yapQ во время вождения";
+
+"not_driver"="Я не водитель";
+
+"report_title"="Спасибо";
+
+"report_message" = "Мы рассмотрим ваше сообщение и устранить проблему в кратчайшие сроки.";
+
+"waiting_gps_signal"="Ожидание сигнала GPS";
+
+"Data Roaming"="Роуминг данных";
+
+"Enable 3G network connection when WiFi is not available."="Включить сетевое подключение 3G если Wi-Fi не доступен.";
+
+"Free Memory"="Свободная память";
+
+"Delete City you won’t need.\nYou can always redownload it later."="Удалить пакет, который вы не будете использовать.\n Вы всегда можете скачать его позже.";
+
+"Units"="Единицы";
+
+"Kilometers"="Километры";
+
+"Miles"="Мили";
+
+"Speech Rate"="Скорость Pечи";
+
+"no_installed_packages"="Нет установленных пакетов";
+
+"no_packages_found"="Не найдено ни одного пакета";
+
+"for_offline_use"="скачать";
+
+"free"="Бесплатно";
+
+"my_downloads"="Мои пакеты";
+
+"connect_to_wifi_or_enable_data_roaming"="Пожалуйста, подключитесь к Wi-Fi или включить Роуминг данных.";
+
+"delete"="Удалить";
+
+"delete_package_message"="Вы уверены, что хотите удалить этот пакет?";
+
+"connect_device_to_facebook"="Выберите Настройки> Facebook и подключить устройство к Facebook";
+
+"simple_error_message_on_login"="Что-то пошло не так, пожалуйста, попробуйте подключиться снова";
+
+"simple_error_message_on_download"="Упс.. Похоже что то  сломалось на нашей стороне. Пожалуйста, попробуйте еще раз чуть позже.";
+
+"purchase_unsuccessful"="Покупка неудалась";
+
+"try_repurchase"="Упс.. Оплата не была завершена, попробуйте еще раз.";
+
+"no_space_on_device"="Не хватает места для загрузки этого пакета.";
+
+"change_language_menu"="Изменение языка";
+
+"account_menu"="Аккаунт";
+
+"offline_menu"="Поиск Офлайн покета";
+
+"settings_menu"="Настройки";
+
+"send_to_friend"="Отправить друзьям";
+
+"help_menu"="Поддержка";
+
+"account_description"="Подключитесь к yapQ так что бы вы всегда могли сохранить и синхронизировать офлайн покет в любом из ваших устройств.";
+
+"offline_guides"="Офлайн покеты";
+
+"gps_use_message"="Приложение будет использовать GPS для определения вашего местоположения.";
+
+"offline"="офлайн";
+
+"store_cell_text"="Скачивай и наслаждайся прекрасным городом %@ офлайн";
+
+"places"="%@ мест";
+
+"under_purchases_table" = "This list contains your purchases. When installed it enables you to use yapQ without internet connection.\n";

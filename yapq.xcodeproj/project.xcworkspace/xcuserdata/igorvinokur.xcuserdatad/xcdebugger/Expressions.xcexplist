@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[SettingsCellWithSlider sliderValueChanged:]:SettingsCellWithSlider.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_rateSlider.value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PlacesTableViewController scrollViewDidScroll:]:PlacesTableViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.contentInset.top">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PackageStoreViewController paymentQueue:updatedTransactions:]:PackageStoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.transactionState">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[PackageStoreViewController productsRequest:didReceiveResponse:]:PackageStoreViewController.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[PackageStoreViewController completeTransaction:]:PackageStoreViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "transaction.originalTransaction.transactionIdentifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

@@ -1,0 +1,17 @@
+PODS:
+  - FLAnimatedImage (1.0.8)
+  - Mixpanel (2.8.1):
+    - Mixpanel/Mixpanel
+  - Mixpanel/Mixpanel (2.8.1):
+    - Mixpanel/MPCategoryHelpers
+  - Mixpanel/MPCategoryHelpers (2.8.1)
+
+DEPENDENCIES:
+  - FLAnimatedImage (~> 1.0)
+  - Mixpanel
+
+SPEC CHECKSUMS:
+  FLAnimatedImage: f9422f796135aff80d8c00b2afc48015bb746e24
+  Mixpanel: 93c4825025e6380ced273ed7178496282e385077
+
+COCOAPODS: 0.34.4

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="1.0" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="5064" systemVersion="13E28" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="DBPackage" representedClassName="DBPackage" elementID="1" versionHashModifier="1" syncable="YES">
+        <attribute name="p_bundle_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_card_code" optional="YES" attributeType="String" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_city" attributeType="String" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_country" attributeType="String" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_descr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_exp_date" attributeType="Date" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_id" attributeType="Integer 32" defaultValueString="0" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_lang" attributeType="String" defaultValueString="en" syncable="YES"/>
+        <attribute name="p_link" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_more_json" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_name" optional="YES" attributeType="String" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_num_of_places" optional="YES" attributeType="Integer 16" defaultValueString="0" versionHashModifier="1" elementID="1" syncable="YES"/>
+        <attribute name="p_price" optional="YES" attributeType="String" defaultValueString="$ 9.99" syncable="YES"/>
+        <attribute name="p_purchase_type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p_radius" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p_size" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="places" toMany="YES" deletionRule="Cascade" destinationEntity="DBPlace" inverseName="package" inverseEntity="DBPlace" syncable="YES"/>
+    </entity>
+    <entity name="DBPlace" representedClassName="DBPlace" elementID="1" versionHashModifier="1" syncable="YES">
+        <attribute name="pl_audio" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl_code_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl_descr" attributeType="String" syncable="YES"/>
+        <attribute name="pl_fk_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pl_id" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="pl_img_url" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="pl_title" attributeType="String" syncable="YES"/>
+        <attribute name="pl_wiki" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="coord" maxCount="1" deletionRule="Cascade" destinationEntity="DBPlaceCoord" inverseName="place" inverseEntity="DBPlaceCoord" syncable="YES"/>
+        <relationship name="package" maxCount="1" deletionRule="No Action" destinationEntity="DBPackage" inverseName="places" inverseEntity="DBPackage" syncable="YES"/>
+    </entity>
+    <entity name="DBPlaceCoord" representedClassName="DBPlaceCoord" elementID="1" versionHashModifier="1" syncable="YES">
+        <attribute name="pc_distance" optional="YES" attributeType="Float" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="pc_lat" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="pc_lon" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <relationship name="place" maxCount="1" deletionRule="No Action" destinationEntity="DBPlace" inverseName="coord" inverseEntity="DBPlace" syncable="YES"/>
+    </entity>
+    <entity name="DBPurchasedPackages" representedClassName="DBPurchasedPackages" elementID="1" versionHashModifier="1" syncable="YES">
+        <attribute name="p_card_code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_city" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_country" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_descr" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_id" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="p_image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="p_num_of_places" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="p_purchase_type" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="DBPackage" positionX="-11495" positionY="-5542" width="128" height="313"/>
+        <element name="DBPlace" positionX="-11286" positionY="-5544" width="128" height="193"/>
+        <element name="DBPlaceCoord" positionX="-11081" positionY="-5341" width="128" height="103"/>
+        <element name="DBPurchasedPackages" positionX="-11081" positionY="-5545" width="128" height="178"/>
+    </elements>
+</model>

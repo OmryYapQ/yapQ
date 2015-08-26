@@ -1,0 +1,141 @@
+
+/* Class = "UILabel"; text = "FOR OFFLINE USE"; ObjectID = "0jd-YZ-pII"; */
+"0jd-YZ-pII.text" = "삭제";
+
+/* Class = "UILabel"; text = "Log:"; ObjectID = "1YO-Y2-38S"; */
+"1YO-Y2-38S.text" = "Log:";
+
+/* Class = "UILabel"; text = "Tel Aviv - Yafo, Israel"; ObjectID = "6cn-Qh-qew"; */
+"6cn-Qh-qew.text" = "Tel Aviv - Yafo, Israel";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "804-8p-klw"; */
+"804-8p-klw.title" = "YAPQ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "Abz-g1-WO1"; */
+"Abz-g1-WO1.text" = "Title";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BEn-L1-gIJ"; */
+"BEn-L1-gIJ.text" = "Label";
+
+/* Class = "UILabel"; text = "Connect to yapQ so you could always save & sync your offline guides in any of your devices."; ObjectID = "DNY-rd-adf"; */
+"DNY-rd-adf.text" = "Connect to yapQ so you could always save & sync your offline guides in any of your devices.";
+
+/* Class = "UIButton"; normalTitle = "Log in with Google+"; ObjectID = "G8e-9K-TFk"; */
+"G8e-9K-TFk.normalTitle" = "Log in with Google+";
+
+/* Class = "UIButton"; normalTitle = " Directions"; ObjectID = "GFx-tX-Tbu"; */
+"GFx-tX-Tbu.normalTitle" = " Directions";
+
+/* Class = "UILabel"; text = "30 ק׳׳מ"; ObjectID = "I1V-28-eUz"; */
+"I1V-28-eUz.text" = "30 ק׳׳מ";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "IB1-ZQ-nuZ"; */
+"IB1-ZQ-nuZ.title" = "YAPQ";
+
+/* Class = "UILabel"; text = "Label sdadasd sda sda sas dasd ada sdas das dasdas "; ObjectID = "JcT-Le-eFY"; */
+"JcT-Le-eFY.text" = "Label sdadasd sda sda sas dasd ada sdas das dasdas ";
+
+/* Class = "UILabel"; text = "SETTINGS"; ObjectID = "Jnd-pu-QUV"; */
+"Jnd-pu-QUV.text" = "SETTINGS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LjS-Wj-iHg"; */
+"LjS-Wj-iHg.text" = "Label";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "Nvm-jv-QHk"; */
+"Nvm-jv-QHk.title" = "YAPQ";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "PuM-OQ-NPe"; */
+"PuM-OQ-NPe.title" = "YAPQ";
+
+/* Class = "UILabel"; text = "Enter your promo code here for free download"; ObjectID = "Q7a-J2-rHk"; */
+"Q7a-J2-rHk.text" = "Enter your promo code here for free download";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RUi-t2-HZu"; */
+"RUi-t2-HZu.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Log in with Facebook"; ObjectID = "Uun-S1-Y2h"; */
+"Uun-S1-Y2h.normalTitle" = "Log in with Facebook";
+
+/* Class = "UILabel"; text = "title of place"; ObjectID = "YL3-sE-LO3"; */
+"YL3-sE-LO3.text" = "title of place";
+
+/* Class = "UIButton"; normalTitle = " Share"; ObjectID = "ZZ7-yy-ICE"; */
+"ZZ7-yy-ICE.normalTitle" = " Share";
+
+/* Class = "UILabel"; text = "FOR OFFLINE USE"; ObjectID = "ZhE-6G-3KN"; */
+"ZhE-6G-3KN.text" = "FOR OFFLINE USE";
+
+/* Class = "UILabel"; text = "Speech rate:"; ObjectID = "Ztl-Yh-oaW"; */
+"Ztl-Yh-oaW.text" = "Speech rate:";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "aAJ-Cv-Y4v"; */
+"aAJ-Cv-Y4v.text" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "bpc-AB-Ff6"; */
+"bpc-AB-Ff6.normalTitle" = "Close";
+
+/* Class = "UIButton"; selectedTitle = "SCAN BARCODE"; ObjectID = "eI5-F3-g4h"; */
+"eI5-F3-g4h.selectedTitle" = "SCAN BARCODE";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "eLY-QV-l6P"; */
+"eLY-QV-l6P.title" = "YAPQ";
+
+/* Class = "UILabel"; text = "Signal:"; ObjectID = "fBw-Q7-ss2"; */
+"fBw-Q7-ss2.text" = "Signal:";
+
+/* Class = "UILabel"; text = "You will drive, I will yap..."; ObjectID = "fMX-mN-bCR"; */
+"fMX-mN-bCR.text" = "You will drive, I will yap...";
+
+/* Class = "UILabel"; text = "1,257 Places "; ObjectID = "gr5-2d-Nam"; */
+"gr5-2d-Nam.text" = "1,257 Places ";
+
+/* Class = "UINavigationItem"; title = "YAPQ"; ObjectID = "hEi-tl-JDd"; */
+"hEi-tl-JDd.title" = "YAPQ";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "hGq-kV-xG3"; */
+"hGq-kV-xG3.text" = "Title";
+
+/* Class = "UILabel"; text = "$ 9.99"; ObjectID = "hH7-gc-7Ab"; */
+"hH7-gc-7Ab.text" = "$ 9.99";
+
+/* Class = "UILabel"; text = "USER NAME"; ObjectID = "jdk-nN-9Xz"; */
+"jdk-nN-9Xz.text" = "USER NAME";
+
+/* Class = "UIButton"; normalTitle = "Wikipedia"; ObjectID = "kEA-t1-cpS"; */
+"kEA-t1-cpS.normalTitle" = "Wikipedia";
+
+/* Class = "UISearchBar"; placeholder = "Where are you going ?"; ObjectID = "kkk-GD-b8r"; */
+"kkk-GD-b8r.placeholder" = "Where are you going ?";
+
+/* Class = "UILabel"; text = "Sign Out"; ObjectID = "mGz-QF-mtq"; */
+"mGz-QF-mtq.text" = "Sign Out";
+
+/* Class = "UILabel"; text = "Source:"; ObjectID = "nao-UV-8RX"; */
+"nao-UV-8RX.text" = "Source:";
+
+/* Class = "UILabel"; text = "Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story"; ObjectID = "pRu-ot-D3b"; */
+"pRu-ot-D3b.text" = "Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story Some story";
+
+/* Class = "UILabel"; text = "No packages found"; ObjectID = "q2b-Wg-gUh"; */
+"q2b-Wg-gUh.text" = "No packages found";
+
+/* Class = "UILabel"; text = "Tel Aviv"; ObjectID = "r3y-q0-apU"; */
+"r3y-q0-apU.text" = "Tel Aviv";
+
+/* Class = "UIButton"; normalTitle = " Read More"; ObjectID = "reh-C0-c0P"; */
+"reh-C0-c0P.normalTitle" = " Read More";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "uur-21-kiQ"; */
+"uur-21-kiQ.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "OFFLINE GUIDES"; ObjectID = "z48-bl-WkD"; */
+"z48-bl-WkD.text" = "OFFLINE GUIDES";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zMC-GJ-d8D"; */
+"zMC-GJ-d8D.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zQj-nB-gsq"; */
+"zQj-nB-gsq.text" = "Label";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "zxJ-eH-XJs"; */
+"zxJ-eH-XJs.text" = "Title";

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<gpx creator="GPS Visualizer http://www.gpsvisualizer.com/" version="1.1" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<wpt lat="32.089326" lon="34.770753">
+  <name>From: Nahum Gutman, Be'er Sheva, Israel</name>
+</wpt>
+<wpt lat="32.089326" lon="35.770753">
+  <name>To: Beit El/‫בית אל‬‎</name>
+</wpt>
+<trk>
+  <name>Walking directions to Beit El/‫בית אל‬‎</name>
+  <trkseg>
+    <trkpt lat="31.23914" lon="34.779083"></trkpt>
+    <trkpt lat="31.239513" lon="34.779202"></trkpt>
+    <trkpt lat="31.239592" lon="34.779732"></trkpt>
+    <trkpt lat="31.239592" lon="34.779732"></trkpt>
+    <trkpt lat="31.240448" lon="34.779682"></trkpt>
+    <trkpt lat="31.240448" lon="34.779682"></trkpt>
+    <trkpt lat="31.240364" lon="34.778656"></trkpt>
+    <trkpt lat="31.240824" lon="34.7784"></trkpt>
+    <trkpt lat="31.240824" lon="34.7784"></trkpt>
+    <trkpt lat="31.240665" lon="34.778023"></trkpt>
+    <trkpt lat="31.240665" lon="34.778023"></trkpt>
+    <trkpt lat="31.241093" lon="34.777672"></trkpt>
+    <trkpt lat="31.241444" lon="34.777557"></trkpt>
+    <trkpt lat="31.241514" lon="34.777409"></trkpt>
+    <trkpt lat="31.241453" lon="34.777233"></trkpt>
+    <trkpt lat="31.241716" lon="34.776833"></trkpt>
+    <trkpt lat="31.242315" lon="34.776348"></trkpt>
+    <trkpt lat="31.242315" lon="34.776348"></trkpt>
+    <trkpt lat="31.24242" lon="34.77644"></trkpt>
+    <trkpt lat="31.242537" lon="34.776409"></trkpt>
+    <trkpt lat="31.242592" lon="34.77631"></trkpt>
+    <trkpt lat="31.24258" lon="34.77618"></trkpt>
+    <trkpt lat="31.24292" lon="34.775932"></trkpt>
+    <trkpt lat="31.243378" lon="34.775299"></trkpt>
+    <trkpt lat="31.243591" lon="34.774475"></trkpt>
+    <trkpt lat="31.243629" lon="34.773685"></trkpt>
+    <trkpt lat="31.243629" lon="34.773685"></trkpt>
+    <trkpt lat="31.243738" lon="34.773552"></trkpt>
+    <trkpt lat="31.246288" lon="34.773941"></trkpt>
+    <trkpt lat="31.246367" lon="34.774055"></trkpt>
+    <trkpt lat="31.246473" lon="34.773975"></trkpt>
+    <trkpt lat="31.24765" lon="34.774158"></trkpt>
+    <trkpt lat="31.248814" lon="34.774479"></trkpt>
+    <trkpt lat="31.249458" lon="34.774948"></trkpt>
+  </trkseg>
+</trk>
+</gpx>

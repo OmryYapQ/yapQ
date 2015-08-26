@@ -1,0 +1,115 @@
+/*
+ Localizable.string.strings
+ yapq
+ 
+ Created by yapQ Ltd on 1/11/14.
+ Copyright (c) 2014 yapQ Ltd. All rights reserved.
+ */
+/*
+ Spanish
+ */
+"km" = "kilometro";
+
+"about" = "respecto";
+
+"term_conditions" = "términos y condiciones ";
+
+"Error" = "Error";
+
+"info"="Información ";
+
+"location_service_disabled_message"="Su servicio de localización esta desactivado. Por favor ingresan al Ajustes-> prividad -> servicio de localización y habiliten el servicio de localización para “Yapq”. ";
+
+"Ok" = "Ok";
+
+"no"="No";
+
+"yes"="si";
+
+"loading" = "Cargando... ";
+
+"no_place_found_message" = "No hay lugares para mostrar ";
+
+"warning" = "Advertencia";
+
+"cancel" = "Cancelar";
+
+"caution_screen_alert_message"="No aconseja el uso de Yapq durante la conducción";
+
+"not_driver"="No soy el conductor";
+
+"report_title"="Thank you for getting us get better";
+
+"report_message" = "Gracias por ayudarnos mejorarse";
+
+"waiting_gps_signal"="Esperando para señal de gps";
+
+"Data Roaming"="Data Roaming";
+
+"Enable 3G network connection when WiFi is not available."="Habilitar conexión de la red 3G cuando WIFI no esta disponible.";
+
+"Free Memory"="Memoria libre";
+
+"Delete City you won’t need.\nYou can always redownload it later."="Borra un lugar que no lo necesitas mas.\n siempre podrás descargarlo de nuevo.";
+
+"Units"="Unidades";
+
+"Kilometers"="kilómetros";
+
+"Miles"="milas";
+
+"Speech rate"="Velocidad del hablante";
+
+"no_installed_packages"="No hay paquetes instalados";
+
+"no_packages_found"="No se encuentra paquetes";
+
+"for_offline_use"="descargar";
+
+"free"="Gratis";
+
+"my_downloads"="Mis Descargas";
+
+"connect_to_wifi_or_enable_data_roaming"="por favor conecte al wifi o accesa los configuraciones para habilitar recibimiento de datos en migración.";
+
+"delete"="Delete";
+
+"delete_package_message"="Estas seguro que quiere borrar este paquete?";
+
+"connect_device_to_facebook"="Ingresa a ajustes-> Facebook y conecte su dispositivo al facebook.";
+
+"simple_error_message_on_login"="Ops .. Parece que algo se rompió en nuestro lado. Por favor inténtelo de nuevo un poco más tarde.";
+
+"simple_error_message_on_download"="Ops .. Parece que algo se rompió en nuestro lado. Por favor inténtelo de nuevo un poco más tarde.";
+
+"purchase_unsuccessful"="Compra sin éxito.";
+
+"try_repurchase"="Ops .. El pago no se completó, por favor intente de nuevo.";
+
+"no_space_on_device"="No tiene bastante espacio para descargar este paquete.";
+
+"change_language_menu"="Keele Muutmine";
+
+"account_menu"="Cuenta";
+
+"offline_menu"="Busca guía fuera de linea.";
+
+"settings_menu"="Configuraciones";
+
+"send_to_friend"="Envía a tus amigos";
+
+"help_menu"="Apoyo";
+
+"account_description"="Conéctese a yapQ para poder siempre guardar y sincronizar sus guías en cualquiera de sus dispositivos.";
+
+"offline_guides"="Guias fuera de linea";
+
+"gps_use_message"="La aplicación utilizará GPS para determinar su ubicación.";
+
+"offline"="offline";
+
+"store_cell_text"="Descargar y disfrutar de la gran ciudad de %@ offline";
+
+"places"="%@ lugares";
+
+"under_purchases_table" = "This list contains your purchases. When installed it enables you to use yapQ without internet connection.\n";

@@ -1,0 +1,125 @@
+/*
+ 
+ Localizable.string.strings
+ 
+ yapq
+ 
+ 
+ 
+ Created by yapQ Ltd on 1/11/14.
+ 
+ Copyright (c) 2014 yapQ Ltd. All rights reserved.
+ 
+ */
+
+/*
+ 
+ Dutch
+ 
+ */
+
+"km" = "km";
+
+"about" = "Over";
+
+"term_conditions" = "Algemene Voorwaarden";
+
+"Error" = "Fout";
+
+"info"="Info";
+
+"location_service_disabled_message"="Je locatie service is uitgeschakeld. Ga naar Instellingen -> Privacy -> Location Services en schakel locatie service voor yapQ in.";
+
+"Ok" = "Ok";
+
+"no"="Nee";
+
+"yes"="Ja";
+
+"loading" = "Bezig met laden... ";
+
+"no_place_found_message" = "Geen plaatsen om te tonen";
+
+"warning" = "Waarschuwing";
+
+"cancel" = "Annuleer";
+
+"caution_screen_alert_message"="Wij raden aan yapQ niet te gebruiken tijdens het rijden";
+
+"not_driver"="Niet de bestuurder";
+
+"report_title"="Bedankt voor het helpen om ons beter te laten worden";
+
+"report_message" = "Wij zullen je melding bekijken en in deze een mum van tijd oplossen.";
+
+"waiting_gps_signal"="Wachten op GPS signaal";
+
+"Data Roaming"="Data Roaming";
+
+"Enable 3G network connection when WiFi is not available."="Gebruik 3G als er geen WiFi verbinding beschikbaar is.";
+
+"Free Memory"="Vrij geheugen";
+
+"Delete City you won’t need.\nYou can always redownload it later."="Verwijder stad die je niet gebruikt.\n Je kunt deze altijd later opnieuw downloaden.";
+
+"Units"="Eenheden";
+
+"Kilometers"="Kilometer";
+
+"Miles"="Mijl";
+
+"Speech rate"="Spraaksnelheid";
+
+"no_installed_packages"="Geen geïnstalleerde pakketten";
+
+"no_packages_found"="Geen pakketten gevonden";
+
+"for_offline_use"="VOOR OFFLINE GEBRUIK";
+
+"free"="Gratis";
+
+"my_downloads"="MIJN DOWNLOADS";
+
+"connect_to_wifi_or_enable_data_roaming"="Maak verbinding met Wi-Fi of ga naar instellingen en schakel dataroaming in.";
+
+"delete"="Verwijder";
+
+"delete_package_message"="Weet je zeker dat je dit pakket wilt verwijderen?";
+
+"connect_device_to_facebook"="Ga naar Instellingen > Facebook en verbind het apparaat met Facebook";
+
+"simple_error_message_on_login"="Oeps.. Er is iets mis gegaan, verbind opnieuw.";
+
+"simple_error_message_on_download"="Oeps.. Er is iets fout gegaan aan onze kant. Probeer het later opnieuw.";
+
+"purchase_unsuccessful"="Aanschaf Mislukt";
+
+"try_repurchase"="Oeps.. De betaling is niet verwerkt., probeer het nogmaals.";
+
+"no_space_on_device"="Je hebt onvoldoende ruimte om dit pakket te downloaden.";
+
+"change_language_menu"="Verander Talen";
+
+"account_menu"="Account";
+
+"offline_menu"="In Offline Gids Zoeken";
+
+"settings_menu"="Instellingen";
+
+"send_to_friend"="Stuur naar vriend";
+
+"help_menu"="Ondersteuning";
+
+"account_description"="Verbind met yapQ zodat je altijd je offline gdsen kunt opslaan en synchroniseren met elk apparaat.";
+
+"offline_guides"="OFFLINE GIDSEN";
+
+"gps_use_message"="De applicatie zal GPS gebruiken om je locatie te bepalen";
+
+"offline"="offline";
+
+"store_cell_text"="Download en geniet offline van de fantastische stad %@";
+
+"places"="%@ plaatsen";
+
+"under_purchases_table" = "This list contains your purchases. When installed it enables you to use yapQ without internet connection.\n";
